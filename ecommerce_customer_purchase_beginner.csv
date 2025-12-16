@@ -1,0 +1,16 @@
+customer_id,age,gender,product_category,price,payment_method,purchased
+101,22,Male,Clothing,1200,UPI,1
+102,25,Female,Electronics,25000,Card,1
+103,30,Female,Clothing,1500,UPI,1
+104,28,Male,Beauty,800,Cash,0
+105,35,Male,Electronics,30000,Card,1
+106,40,Female,Grocery,600,UPI,1
+107,23,Male,Clothing,1100,Cash,0
+108,27,Female,Beauty,950,UPI,1
+109,32,Male,Grocery,500,Cash,1
+110,45,Female,Electronics,28000,Card,1
+111,29,Female,Clothing,1400,UPI,1
+112,34,Male,Grocery,650,Cash,0
+113,26,Male,Beauty,900,UPI,1
+114,38,Female,Electronics,32000,Card,1
+115,41,Male,Clothing,1600,UPI,1
